@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Filip/source/repos/#3 Projekt/RubiksCube3D/RubiksCube3D/Content/Fonts/Arial24.spritefont</SourceFile>
+  <SourceTime>2018-09-29T09:32:04+02:00</SourceTime>
+  <DestFile>C:/Users/Filip/source/repos/#3 Projekt/RubiksCube3D/RubiksCube3D/Content/bin/Windows/Fonts/Arial24.xnb</DestFile>
+  <DestTime>2019-07-17T11:28:20.3586995+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
