@@ -1,5 +1,26 @@
-# 3D-graphical-rubiks-cube-solver
+# Rubiks Cube Solver Built With Monogame
 
-A program that can take images of a rubik's cube through a webcamera, calulate the nearest colors to generate a representation in the computer and then solve the rubik's cube.
-The solution is presented to the user and all steps are shown through an animated rubik's cube.
+Monogame application that is able to solve rubiks cubes entered either manually or through a webcamera to create the representation of the rubiks cube. The solution to the cube is then displayed visually in 3D to the user.
+<p align="center">
+  <img width="700" height="400" src="Assets/rubiks-cube-solver.gif">
+</p>
+<p align="center">
+  <img width="700" height="400" src="Assets/rubiks-cube-input.gif">
+</p>
+<p align="center">
+  <img width="700" height="400" src="Assets/rubiks-cube-settings.png">
+</p>
 
+## Built With
+[Monogame](https://www.monogame.net/)
+
+## Features
+
+* Input manually or through webcamera
+* Settings to adjust the programs understanding of colors to the enviroment and the live cubes colors
+* Settings to change visual color representation
+
+## Issues
+
+* Webcamera has some problems depending on their resolution
+* Color picker works rather badly in dark or very light areas
